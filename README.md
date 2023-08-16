@@ -13,11 +13,11 @@ Greetings to the Bank Project repository! Within this repository, you'll discove
 ### Create Account
 Users can create a new bank account by providing their personal details and setting up their initial balance.
 ### Login
-#### Money Transfer
-Once logged in, users can transfer money between their accounts or to other users' accounts.
-#### Check Balance
-Users can check the balance of their account.
-#### Profile
-Users can view their profile information.
-#### Deposit
-Users can make deposits to increase their account balance.
+  #### Money Transfer
+  Once logged in, users can transfer money between their accounts or to other users' accounts.
+  #### Check Balance
+  Users can check the balance of their account.
+  #### Profile
+  Users can view their profile information.
+  #### Deposit
+  Users can make deposits to increase their account balance.
