@@ -5,10 +5,10 @@ Greetings to the Bank Project repository! Within this repository, you'll discove
 ## Features Added
 - Create Account
 - Login
-- - Money Transfer
-- - Check Balance
-- - Profile
-- - Deposit
+  - Money Transfer
+  - Check Balance
+  - Profile
+  - Deposit
 
 ### Create Account
 Users can create a new bank account by providing their personal details and setting up their initial balance.
